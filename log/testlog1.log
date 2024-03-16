@@ -1,0 +1,74 @@
+2024-03-16 10:49:01,441 [main] INFO BaseClass - Chrome Driver launched
+2024-03-16 10:51:13,293 [main] INFO BaseClass - Chrome Driver launched
+2024-03-16 10:51:50,505 [main] INFO BaseClass - Mobile selection execution is started
+2024-03-16 10:51:53,772 [main] INFO BaseClass - Mobile filter is applied properly
+2024-03-16 10:51:56,094 [main] INFO BaseClass - GIONEE Mobile results are listed properly
+2024-03-16 10:51:56,118 [main] INFO BaseClass - Capacity 2 GB RAM is listed properly
+2024-03-16 10:51:57,408 [main] INFO BaseClass - GIONEE Mobile filter is removed successfully
+2024-03-16 10:51:57,780 [main] INFO BaseClass - Mobile selection Test execution is completed
+2024-03-16 10:53:55,048 [main] INFO BaseClass - Mobile selection execution is started
+2024-03-16 10:53:59,852 [main] INFO BaseClass - Mobile filter is applied properly
+2024-03-16 10:54:02,904 [main] INFO BaseClass - GIONEE Mobile results are listed properly
+2024-03-16 10:54:02,956 [main] INFO BaseClass - Capacity 2 GB RAM is listed properly
+2024-03-16 10:54:04,326 [main] INFO BaseClass - GIONEE Mobile filter is removed successfully
+2024-03-16 10:54:04,474 [main] INFO BaseClass - Mobile selection Test execution is completed
+2024-03-16 11:00:07,365 [main] INFO BaseClass - Chrome Driver launched
+2024-03-16 11:02:51,331 [main] INFO BaseClass - Mobile selection execution is started
+2024-03-16 11:02:54,907 [main] INFO BaseClass - Mobile filter is applied properly
+2024-03-16 11:02:57,043 [main] INFO BaseClass - GIONEE Mobile results are listed properly
+2024-03-16 11:02:57,071 [main] INFO BaseClass - Capacity 2 GB RAM is listed properly
+2024-03-16 11:02:58,340 [main] INFO BaseClass - GIONEE Mobile filter is removed successfully
+2024-03-16 11:02:58,470 [main] INFO BaseClass - Mobile selection Test execution is completed
+2024-03-16 11:11:00,770 [main] INFO BaseClass - Chrome Driver launched
+2024-03-16 11:11:23,579 [main] INFO BaseClass - Mobile selection execution is started
+2024-03-16 11:11:42,943 [main] INFO BaseClass - Mobile filter is applied properly
+2024-03-16 11:11:46,046 [main] INFO BaseClass - GIONEE Mobile results are listed properly
+2024-03-16 11:11:46,077 [main] INFO BaseClass - Capacity 2 GB RAM is listed properly
+2024-03-16 11:11:47,356 [main] INFO BaseClass - GIONEE Mobile filter is removed successfully
+2024-03-16 11:11:47,770 [main] INFO BaseClass - Mobile selection Test execution is completed
+2024-03-16 11:20:49,422 [main] INFO BaseClass - Chrome Driver launched
+2024-03-16 11:21:46,603 [main] INFO BaseClass - Element is not clickable
+2024-03-16 11:24:36,531 [main] INFO BaseClass - Chrome Driver launched
+2024-03-16 11:25:15,650 [main] INFO BaseClass - loginWait is not clickable
+2024-03-16 11:31:45,542 [main] INFO BaseClass - Chrome Driver launched
+2024-03-16 11:32:33,408 [main] INFO BaseClass - loginWait element is not clickable,pease check!
+2024-03-16 11:33:03,839 [main] INFO BaseClass - loginWait element is not clickable,pease check!
+2024-03-16 11:33:34,257 [main] INFO BaseClass - loginWait element is not clickable,pease check!
+2024-03-16 11:33:35,572 [main] INFO BaseClass - Mobile selection execution is started
+2024-03-16 11:33:56,604 [main] INFO BaseClass - Mobile filter is applied properly
+2024-03-16 11:33:59,400 [main] INFO BaseClass - GIONEE Mobile results are listed properly
+2024-03-16 11:33:59,434 [main] INFO BaseClass - Capacity 2 GB RAM is listed properly
+2024-03-16 11:34:04,331 [main] INFO BaseClass - GIONEE Mobile filter is removed successfully
+2024-03-16 11:34:08,777 [main] INFO BaseClass - Mobile selection Test execution is completed
+2024-03-16 11:41:46,965 [main] INFO BaseClass - Chrome Driver launched
+2024-03-16 11:42:37,070 [main] INFO BaseClass - loginWait element is not clickable,pease check!
+2024-03-16 11:46:30,596 [main] INFO BaseClass - Chrome Driver launched
+2024-03-16 11:49:25,240 [main] INFO BaseClass - Chrome Driver launched
+2024-03-16 11:57:24,398 [TestNG-tests-1] INFO BaseClass - Chrome Driver launched
+2024-03-16 11:57:38,900 [TestNG-tests-1] INFO BaseClass - Mobile selection execution is started
+2024-03-16 11:58:19,614 [TestNG-tests-1] INFO BaseClass - Mobile filter is applied properly
+2024-03-16 11:58:22,917 [TestNG-tests-1] INFO BaseClass - GIONEE Mobile results are listed properly
+2024-03-16 11:58:22,946 [TestNG-tests-1] INFO BaseClass - Capacity 2 GB RAM is listed properly
+2024-03-16 11:58:24,241 [TestNG-tests-1] INFO BaseClass - GIONEE Mobile filter is removed successfully
+2024-03-16 11:58:24,242 [TestNG-tests-1] INFO BaseClass - Mobile selection Test execution is completed
+2024-03-16 12:26:20,286 [main] INFO BaseClass - Chrome Driver launched
+2024-03-16 12:26:30,668 [main] INFO BaseClass - Mobile selection execution is started
+2024-03-16 12:26:57,447 [main] INFO BaseClass - Mobile filter is applied properly
+2024-03-16 12:27:00,851 [main] INFO BaseClass - GIONEE Mobile results are listed properly
+2024-03-16 12:27:00,890 [main] INFO BaseClass - Capacity 2 GB RAM is listed properly
+2024-03-16 12:27:02,376 [main] INFO BaseClass - GIONEE Mobile filter is removed successfully
+2024-03-16 12:27:02,378 [main] INFO BaseClass - Mobile selection Test execution is completed
+2024-03-16 12:28:43,768 [TestNG-tests-1] INFO BaseClass - Chrome Driver launched
+2024-03-16 12:28:55,138 [TestNG-tests-1] INFO BaseClass - Mobile selection execution is started
+2024-03-16 12:29:16,754 [TestNG-tests-1] INFO BaseClass - Mobile filter is applied properly
+2024-03-16 12:29:21,119 [TestNG-tests-1] INFO BaseClass - GIONEE Mobile results are listed properly
+2024-03-16 12:29:21,153 [TestNG-tests-1] INFO BaseClass - Capacity 2 GB RAM is listed properly
+2024-03-16 12:29:22,599 [TestNG-tests-1] INFO BaseClass - GIONEE Mobile filter is removed successfully
+2024-03-16 12:29:22,602 [TestNG-tests-1] INFO BaseClass - Mobile selection Test execution is completed
+2024-03-16 13:24:29,079 [TestNG-tests-1] INFO BaseClass - Chrome Driver launched
+2024-03-16 13:24:43,835 [TestNG-tests-1] INFO BaseClass - Mobile selection execution is started
+2024-03-16 13:25:23,544 [TestNG-tests-1] INFO BaseClass - Mobile filter is applied properly
+2024-03-16 13:25:33,304 [TestNG-tests-1] INFO BaseClass - GIONEE Mobile results are listed properly
+2024-03-16 13:25:33,339 [TestNG-tests-1] INFO BaseClass - Capacity 2 GB RAM is listed properly
+2024-03-16 13:25:34,791 [TestNG-tests-1] INFO BaseClass - GIONEE Mobile filter is removed successfully
+2024-03-16 13:25:34,793 [TestNG-tests-1] INFO BaseClass - Mobile selection Test execution is completed
