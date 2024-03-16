@@ -202,17 +202,10 @@ public class BaseClass extends ConfigFileReader {
 	 * 5.click on the product to go to the product details page
 	 * 
 	 * 
-	 * driver.get("flipkart") driver.findElement(By.id("").sendKeys("iphone");
-	 * driver.findElement(By.xpath("seacrchBoxId").click();
-	 * 
-	 * int productSize=driver.findElements(By.xpath"").size();
-	 * 
-	 * for (int i=0; i<productSize; i++){ String productName =
-	 * driver.findElement(By.xpath""[i]).getText();
-	 * 
-	 * if(productName.equalIgnoreCase("iphone 11 128GB black"){
-	 * 
-	 * driver.findElement(By.name("productDetails).click() }
 	 */
+	
+
+	
+	
 
 }
