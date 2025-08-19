@@ -10,6 +10,8 @@ public class MobileCheck extends BaseClass {
 	//Search mobile validation
 
 	public static void mobileSearchValidation() {
+
+
 		
 		waitForElement("searchTextBox");
 		String actualText = driver.findElement(By.xpath(getLocator("searchTextBox"))).getAttribute("value");		
